@@ -1,0 +1,204 @@
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerComponent main
+INFO: Starting PEEP WS server component
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Application component :Version 1.0
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Environment :Production
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: RESTful PEEP Web Service Server component.
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Web service solution for CITI Company. 
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: TATA Consulting licensed for CITI Company. Copyright 2015
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Jesus Enrique Aldana Sanchez jesus.enrique.aldanasanchez@citi.com
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Home : /
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Work Context : /peep/{startUpId}
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File List : /peep/filesList/
+Oct 23, 2017 9:04:37 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File Download : /peep/downLoadFile/{fileName}
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerComponent main
+INFO: Starting PEEP WS server component
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Application component :Version 1.0
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Environment :Production
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: RESTful PEEP Web Service Server component.
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Web service solution for CITI Company. 
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: TATA Consulting licensed for CITI Company. Copyright 2015
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Jesus Enrique Aldana Sanchez jesus.enrique.aldanasanchez@citi.com
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Home : /
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Work Context : /peep/{startUpId}
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File List : /peep/filesList/
+Oct 23, 2017 9:06:22 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File Download : /peep/downLoadFile/{fileName}
+Oct 23, 2017 9:07:19 PM com.citi.peep.server.FileListResource doInit
+INFO: File List doInit
+Oct 23, 2017 9:09:42 PM com.citi.peep.server.PeepWSServerComponent main
+INFO: Starting PEEP WS server component
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Application component :Version 1.0
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Environment :Production
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: RESTful PEEP Web Service Server component.
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Web service solution for CITI Company. 
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: TATA Consulting licensed for CITI Company. Copyright 2015
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Jesus Enrique Aldana Sanchez jesus.enrique.aldanasanchez@citi.com
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Home : /
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Work Context : /peep/{startUpId}
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File List : /peep/filesList/
+Oct 23, 2017 9:09:43 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File Download : /peep/downLoadFile/{fileName}
+Oct 23, 2017 9:10:24 PM com.citi.peep.server.FileListResource doInit
+INFO: File List doInit
+Oct 23, 2017 9:20:23 PM com.citi.peep.server.PeepWSServerComponent main
+INFO: Starting PEEP WS server component
+Oct 23, 2017 9:20:23 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Application component :Version 1.0
+Oct 23, 2017 9:20:23 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Environment :Production
+Oct 23, 2017 9:20:23 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: RESTful PEEP Web Service Server component.
+Oct 23, 2017 9:20:23 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Web service solution . 
+Oct 23, 2017 9:20:23 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO:  Copyright 2015
+Oct 23, 2017 9:20:23 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Jesus Enrique Aldana Sanchez jealdana@gmail.com
+Oct 23, 2017 9:20:24 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Home : /
+Oct 23, 2017 9:20:24 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Work Context : /peep/{startUpId}
+Oct 23, 2017 9:20:24 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File List : /peep/filesList/
+Oct 23, 2017 9:20:24 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File Download : /peep/downLoadFile/{fileName}
+Oct 23, 2017 9:21:19 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : Off
+Oct 23, 2017 9:26:17 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : On
+Oct 23, 2017 9:26:21 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : On
+Oct 23, 2017 9:26:40 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : Off
+Oct 23, 2017 9:26:43 PM com.citi.peep.server.FileListResource doInit
+INFO: File List doInit
+Oct 23, 2017 9:26:49 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-26-17.mp4
+Oct 23, 2017 9:26:49 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-26-17.mp4 to downloading
+Oct 23, 2017 9:26:49 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-26-17.mp4
+Oct 23, 2017 9:26:49 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-26-17.mp4 to downloading
+Oct 23, 2017 9:26:49 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-26-17.mp4
+Oct 23, 2017 9:26:49 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-26-17.mp4 to downloading
+Oct 23, 2017 9:27:05 PM com.citi.peep.server.FileListResource doInit
+INFO: File List doInit
+Oct 23, 2017 9:33:17 PM com.citi.peep.server.PeepWSServerComponent main
+INFO: Starting PEEP WS server component
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Application component :Version 1.0
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Environment :Production
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: RESTful PEEP Web Service Server component.
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Web service solution . 
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO:  Copyright 2015
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication <init>
+INFO: Jesus Enrique Aldana Sanchez jealdana@gmail.com
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Home : /
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: Work Context : /peep/{startUpId}
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File List : /peep/filesList/
+Oct 23, 2017 9:33:18 PM com.citi.peep.server.PeepWSServerApplication createInboundRoot
+INFO: File Download : /peep/downLoadFile/{fileName}
+Oct 23, 2017 9:33:42 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : On
+Oct 23, 2017 9:33:48 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : On
+Oct 23, 2017 9:33:56 PM com.citi.peep.server.FileListResource doInit
+INFO: File List doInit
+Oct 23, 2017 9:34:44 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : On
+Oct 23, 2017 9:35:14 PM com.citi.peep.server.FileListResource doInit
+INFO: File List doInit
+Oct 23, 2017 9:35:29 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : Off
+Oct 23, 2017 9:37:26 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : On
+Oct 23, 2017 9:37:29 PM com.citi.peep.server.PeepServerResource doInit
+INFO: Get startUpId : Off
+Oct 23, 2017 9:37:31 PM com.citi.peep.server.FileListResource doInit
+INFO: File List doInit
+Oct 23, 2017 9:37:33 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-33-42.mp4
+Oct 23, 2017 9:37:33 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-33-42.mp4 to downloading
+Oct 23, 2017 9:37:34 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-33-42.mp4
+Oct 23, 2017 9:37:34 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-33-42.mp4 to downloading
+Oct 23, 2017 9:37:34 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-33-42.mp4
+Oct 23, 2017 9:37:34 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-33-42.mp4 to downloading
+Oct 23, 2017 9:37:44 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-33-42.mp4
+Oct 23, 2017 9:37:44 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-33-42.mp4 to downloading
+Oct 23, 2017 9:37:44 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-33-42.mp4
+Oct 23, 2017 9:37:44 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-33-42.mp4 to downloading
+Oct 23, 2017 9:37:44 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-33-42.mp4
+Oct 23, 2017 9:37:44 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-33-42.mp4 to downloading
+Oct 23, 2017 9:37:48 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-26-17.mp4
+Oct 23, 2017 9:37:48 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-26-17.mp4 to downloading
+Oct 23, 2017 9:37:48 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-26-17.mp4
+Oct 23, 2017 9:37:48 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-26-17.mp4 to downloading
+Oct 23, 2017 9:37:48 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-26-17.mp4
+Oct 23, 2017 9:37:48 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-26-17.mp4 to downloading
+Oct 23, 2017 9:37:51 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-37-26.mp4
+Oct 23, 2017 9:37:51 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-37-26.mp4 to downloading
+Oct 23, 2017 9:37:52 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-37-26.mp4
+Oct 23, 2017 9:37:52 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-37-26.mp4 to downloading
+Oct 23, 2017 9:37:52 PM com.citi.peep.server.FileVideoResource doInit
+INFO: Get file name : 10-23-2017-09-37-26.mp4
+Oct 23, 2017 9:37:52 PM com.citi.peep.server.FileVideoResource getRepresent
+INFO: File representation called : file:////Users/JEAS/Documents/1FabricaDeSoftware/1CITI/WorkSpace/CITI_PEEP/10-23-2017-09-37-26.mp4 to downloading
